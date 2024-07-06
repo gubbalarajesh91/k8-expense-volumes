@@ -74,3 +74,5 @@ spec:
 #kubectl apply -f manifest.yaml
 #kubectl get pvc -n expense (should give namespace to display after apply)
 #kubectl get pvc mysql -n expense ( mysql is name)
+#kubectl get nodes --show-labels 
+#kubectl get statefulset
